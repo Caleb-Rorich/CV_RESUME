@@ -7,7 +7,7 @@ header('Content-type: application/json');
 require 'php-mailer/PHPMailerAutoload.php';
 
 // Your email address
-$to = 'you@domain.com';
+$to = 'ctrorich@gmail.com';
 
 $subject = $_POST['subject'];
 
